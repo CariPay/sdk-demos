@@ -1,0 +1,17 @@
+{
+  "name": "rndemo",
+  "displayName": "rndemo",
+  "expo": {
+    "name": "rndemo",
+    "slug": "rndemo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
